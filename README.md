@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Ashirbad Pradhan
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in ... Web Developer
+- 🌱 I’m currently learning ... Web Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... pradhanashirbad@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...I think i am funny
 
 <!---
 Ashirbadpradhann/Ashirbadpradhann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
